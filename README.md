@@ -2,7 +2,7 @@
 
 ## Overview
 
-PortBender a PE adaptation of the original PortBender created by Praetorian Inc for Cobalt Strike C2 [1]. It is a TCP port redirection utility that allows a red team operator to redirect inbound traffic destined for one TCP port (e.g., 445/TCP) to another TCP port (e.g., 8445/TCP). The tool also allows operators to simulate a backdoor/persistence mechanism leveraged within the "PortServ.sys" capability used by the Duqu 2.0 threat actor. 
+a PE adaptation of the original PortBender created by Praetorian Inc for Cobalt Strike C2 [1]. It is a TCP port redirection utility that allows a red team operator to redirect inbound traffic destined for one TCP port (e.g., 445/TCP) to another TCP port (e.g., 8445/TCP). The tool also allows operators to simulate a backdoor/persistence mechanism leveraged within the "PortServ.sys" capability used by the Duqu 2.0 threat actor. 
 
 ##  Design
 
